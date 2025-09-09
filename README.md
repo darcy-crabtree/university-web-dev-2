@@ -2,7 +2,7 @@
 
 All code was used in conjunction with provided Laravel files that are not included in this repository. Only modified files were included. 
 
-This code was used as an improvement to [University web deb 1](https://github.com/darcy-crabtree/university-web-dev-1)
+This code was used as an improvement to [University web dev 1](https://github.com/darcy-crabtree/university-web-dev-1)
 
 Completed 15/01/2025
 
