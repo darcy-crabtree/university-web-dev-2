@@ -1,10 +1,10 @@
 # university-web-dev-2
 
-All code was used in conjunction with provided Laravel files that are not included in this repository. Only modified files were included. 
+Completed 15/01/2025.
 
-This code was used as an improvement to [University web dev 1](https://github.com/darcy-crabtree/university-web-dev-1)
+This code was used as an improvement to [University web dev 1](https://github.com/darcy-crabtree/university-web-dev-1).
 
-Completed 15/01/2025
+Please note this project was completed as university course work and may contain files provided by the university.
 
 # Overview
 The contents of this README file contain; Authentication and Authorisation, Tailwind, Responsive Design and Additional Databases. Each section also contains an analysis piece, stating what could be improved within the section.
